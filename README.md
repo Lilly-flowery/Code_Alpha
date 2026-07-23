@@ -30,8 +30,8 @@ Before running the script, ensure you have the following installed:
    cd CodeAlpha_BasicNetworkSniffer
 
 
-   # Task 3: OWASP Juice Shop - SQL Injection Remediation
 
+  # Task 3: OWASP Juice Shop - SQL Injection Remediation
 ### Overview
 In this task, the SQL Injection (SQLi) vulnerability identified in the OWASP Juice Shop application (specifically within the login endpoint) was successfully remediated. 
 
